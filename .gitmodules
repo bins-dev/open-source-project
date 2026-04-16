@@ -25,3 +25,6 @@
 [submodule "nginx"]
 	path = nginx
 	url = https://github.com/bins-dev/nginx.git
+[submodule "tomcat"]
+	path = tomcat
+	url = https://github.com/bins-dev/tomcat.git
