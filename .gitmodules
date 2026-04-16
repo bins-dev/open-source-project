@@ -7,3 +7,6 @@
 [submodule "nacos"]
 	path = nacos
 	url = https://github.com/bins-dev/nacos.git
+[submodule "ffmpeg"]
+	path = ffmpeg
+	url = https://github.com/bins-dev/ffmpeg.git
