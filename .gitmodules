@@ -34,3 +34,6 @@
 [submodule "srs"]
 	path = srs
 	url = https://github.com/bins-dev/srs.git
+[submodule "vue3"]
+	path = vue3
+	url = https://github.com/bins-dev/vue3.git
