@@ -16,3 +16,6 @@
 [submodule "FreeRTOS"]
 	path = FreeRTOS
 	url = https://github.com/bins-dev/FreeRTOS.git
+[submodule "rt-thread"]
+	path = rt-thread
+	url = https://github.com/bins-dev/rt-thread.git
