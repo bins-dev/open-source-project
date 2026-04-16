@@ -28,3 +28,6 @@
 [submodule "tomcat"]
 	path = tomcat
 	url = https://github.com/bins-dev/tomcat.git
+[submodule "ant-design-vue"]
+	path = ant-design-vue
+	url = https://github.com/bins-dev/ant-design-vue.git
