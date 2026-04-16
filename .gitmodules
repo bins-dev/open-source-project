@@ -19,3 +19,6 @@
 [submodule "rt-thread"]
 	path = rt-thread
 	url = https://github.com/bins-dev/rt-thread.git
+[submodule "portainer"]
+	path = portainer
+	url = https://github.com/bins-dev/portainer.git
