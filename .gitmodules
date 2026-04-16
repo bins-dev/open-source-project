@@ -10,3 +10,6 @@
 [submodule "ffmpeg"]
 	path = ffmpeg
 	url = https://github.com/bins-dev/ffmpeg.git
+[submodule "portainer-agent"]
+	path = portainer-agent
+	url = https://github.com/bins-dev/portainer-agent.git
