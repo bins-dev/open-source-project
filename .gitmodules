@@ -13,3 +13,6 @@
 [submodule "portainer-agent"]
 	path = portainer-agent
 	url = https://github.com/bins-dev/portainer-agent.git
+[submodule "FreeRTOS"]
+	path = FreeRTOS
+	url = https://github.com/bins-dev/FreeRTOS.git
