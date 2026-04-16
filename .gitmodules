@@ -37,3 +37,6 @@
 [submodule "vue3"]
 	path = vue3
 	url = https://github.com/bins-dev/vue3.git
+[submodule "xtext"]
+	path = xtext
+	url = https://github.com/bins-dev/xtext.git
