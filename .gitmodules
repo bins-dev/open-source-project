@@ -31,3 +31,6 @@
 [submodule "ant-design-vue"]
 	path = ant-design-vue
 	url = https://github.com/bins-dev/ant-design-vue.git
+[submodule "srs"]
+	path = srs
+	url = https://github.com/bins-dev/srs.git
