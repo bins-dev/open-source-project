@@ -22,3 +22,6 @@
 [submodule "portainer"]
 	path = portainer
 	url = https://github.com/bins-dev/portainer.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/bins-dev/nginx.git
